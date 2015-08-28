@@ -1,0 +1,1 @@
+document.write("<h2 style='color:yellow'>Hello World!</h2>");
